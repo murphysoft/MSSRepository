@@ -1,0 +1,61 @@
+{
+	"_id": ObjectId("0DADF4623A2734320A50FA17"),
+	"driverName": "Adderly Fong", 
+	"driverFirstname": "Adderly",
+	"driverSurname": "Fong",
+	"driverShortCode": "FNG", 
+	"countryOfResidence":	{
+					"countryName": "", 
+					"countryCode": ""
+	},
+	"birthPlace":	{
+				"place": "",
+				"region": "",
+				"country": {
+					"countryName": "", 
+					"countryCode": ""
+				}
+	},
+	"nationalities": [
+		{
+			"countryName": "Hong Kong", 
+			"countryCode": "HKG",
+            "represents" : true
+		}
+	],
+	"birthDate": ISODate("1990-03-02"),
+	"deathDate": ISODate("1900-01-01"),
+	"height": 0.00,
+	"weight": 0.00,
+	"driverBio": "",
+	"mediaResource" : [ 
+        {
+            "mediaType" : "Webpage",
+            "resource" : "",
+            "resourceName" : "Adderly Fong"
+        }, 
+        {
+            "mediaType" : "Twitter",
+            "resource" : "",
+            "resourceHandle" : "",
+            "hashTag" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "Facebook",
+            "resource" : "",
+            "resourceHandle" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "Instagram",
+            "resource" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "YouTube",
+            "resource" : "",
+            "resourceName" : ""
+        }
+    ]
+}
