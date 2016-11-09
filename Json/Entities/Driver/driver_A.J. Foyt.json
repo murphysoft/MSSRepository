@@ -1,0 +1,61 @@
+{
+	"_id": ObjectId("D6FEF4C2B8F21BDBFA46C76E"),
+	"driverName": "A.J. Foyt", 
+	"driverFirstname": "A.J.",
+	"driverSurname": "Foyt",
+	"driverShortCode": "FOY", 
+	"countryOfResidence":	{
+					"countryName": "", 
+					"countryCode": ""
+	},
+	"birthPlace":	{
+				"place": "",
+				"region": "",
+				"country": {
+					"countryName": "", 
+					"countryCode": ""
+				}
+	},
+	"nationalities": [
+		{
+			"countryName": "United States of America", 
+			"countryCode": "USA",
+            "represents" : true
+		}
+	],
+	"birthDate": ISODate("1935-01-16"),
+	"deathDate": ISODate("1900-01-01"),
+	"height": 0.00,
+	"weight": 0.00,
+	"driverBio": "",
+	"mediaResource" : [ 
+        {
+            "mediaType" : "Webpage",
+            "resource" : "http://en.wikipedia.org/wiki/A.J._Foyt",
+            "resourceName" : "A.J. Foyt"
+        }, 
+        {
+            "mediaType" : "Twitter",
+            "resource" : "",
+            "resourceHandle" : "",
+            "hashTag" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "Facebook",
+            "resource" : "",
+            "resourceHandle" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "Instagram",
+            "resource" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "YouTube",
+            "resource" : "",
+            "resourceName" : ""
+        }
+    ]
+}

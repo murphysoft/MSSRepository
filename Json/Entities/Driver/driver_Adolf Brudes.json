@@ -1,0 +1,61 @@
+{
+	"_id": ObjectId("A2BAC490CAF9025394F3C7D5"),
+	"driverName": "Adolf Brudes", 
+	"driverFirstname": "Adolf",
+	"driverSurname": "Brudes",
+	"driverShortCode": "BRU", 
+	"countryOfResidence":	{
+					"countryName": "", 
+					"countryCode": ""
+	},
+	"birthPlace":	{
+				"place": "",
+				"region": "",
+				"country": {
+					"countryName": "", 
+					"countryCode": ""
+				}
+	},
+	"nationalities": [
+		{
+			"countryName": "Germany", 
+			"countryCode": "DEU",
+            "represents" : true
+		}
+	],
+	"birthDate": ISODate("1899-10-15"),
+	"deathDate": ISODate("1900-01-01"),
+	"height": 0.00,
+	"weight": 0.00,
+	"driverBio": "",
+	"mediaResource" : [ 
+        {
+            "mediaType" : "Webpage",
+            "resource" : "http://en.wikipedia.org/wiki/Adolf_Brudes",
+            "resourceName" : "Adolf Brudes"
+        }, 
+        {
+            "mediaType" : "Twitter",
+            "resource" : "",
+            "resourceHandle" : "",
+            "hashTag" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "Facebook",
+            "resource" : "",
+            "resourceHandle" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "Instagram",
+            "resource" : "",
+            "resourceName" : ""
+        }, 
+        {
+            "mediaType" : "YouTube",
+            "resource" : "",
+            "resourceName" : ""
+        }
+    ]
+}
